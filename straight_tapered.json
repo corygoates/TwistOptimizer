@@ -1,0 +1,17 @@
+{
+    "weight" : 50.0,
+    "units" : "English",
+    "wings" : {
+        "design_section" : {
+            "ID" : 1,
+            "side" : "both",
+            "is_main" : true,
+            "semispan" : 6.0,
+            "chord" : [[0.0, 1.0],
+                       [1.0, 0.5]],
+            "grid" : {
+                "N" : 40
+            }
+        }
+    }
+}

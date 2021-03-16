@@ -1,0 +1,23 @@
+{
+    "weight" : 50.0,
+    "units" : "English",
+    "wings" : {
+        "design_section" : {
+            "ID" : 1,
+            "side" : "both",
+            "is_main" : true,
+            "semispan" : 10.0,
+            "chord" : 1.0,
+            "dihedral" : [[0.0, 0.0],
+                          [0.68, 0.0],
+                          [0.72, 90.0],
+                          [0.83, 90.0],
+                          [0.87, 180.0],
+                          [1.0, 180.0]],
+            "grid" : {
+                "N" : 60,
+                "cluster_points" : [0.7, 0.85]
+            }
+        }
+    }
+}
